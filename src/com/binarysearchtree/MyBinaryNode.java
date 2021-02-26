@@ -1,5 +1,4 @@
 package com.binarysearchtree;
-
 public class MyBinaryNode<K extends Comparable <K>> {
 
 	K key;
